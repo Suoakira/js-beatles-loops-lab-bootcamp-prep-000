@@ -23,7 +23,7 @@ function iLoveTheBeatles(n) {
   var i = 0;
   do {
     empty.push(x)
-    i++
+    i++;
   } while (i < 15);
   return sentence;
 }
