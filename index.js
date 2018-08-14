@@ -22,6 +22,6 @@ function iLoveTheBeatles(num) {
   do {
     phrases.push("I love the Beatles!");
     num++
-  } while (num < 16);
-  return phrases;
+  } while (num < 15);
+  return sentence;
 }
